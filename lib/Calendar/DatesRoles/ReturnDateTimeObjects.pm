@@ -80,4 +80,4 @@ field (the interval end).
 
 L<Calendar::Dates>
 
-L<Calendar::DatesRolse::ReturnTimeMomentObjects>
+L<Calendar::DatesRoles::ReturnTimeMomentObjects>
